@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Lintuopas</string>
+    <string name="email">aki.akerman@gmail.com</string>
+    <string name="developer_name">Polardev</string>
+    <string name="copyright">Copyright © 2020 Polardev</string>
+
+    <!--=== DATA FOR ADMOB ===================================================================== -->
+    <string name="publisher_id">pub-1024894357295422</string>
+    <string name="privacy_policy_url">
+        https://sites.google.com/view/polardev/etusivu
+    </string>
+
+    <!--ADMOB property -->
+    <string name="admob_app_id">ca-app-pub-1024894357295422~4364849014</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1024894357295422/9512878699</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-1024894357295422/9512878699</string>
+
+    <string name="more_app_url">https://play.google.com/store/apps/dev?id=4779787792304796397</string>
+    <!--=== activity FullScreenImage =========================================================== -->
+    <string name="image_of">%1$d / %2$d</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string name="title_nav_recipes">Kaikki(A-Ö)</string>
+    <string name="title_nav_category">Lahkot</string>
+    <string name="title_nav_favorites">Bongatut</string>
+    <string name="title_nav_setting">Asetukset</string>
+    <string name="title_nav_rate">Arvostele</string>
+    <string name="title_nav_more">Muita appeja</string>
+    <string name="title_nav_about">Tietoja</string>
+
+    <!--activity Main-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="press_again_exit_app">Press again to exit</string>
+
+    <!--Recipes, Category, Favorites Fragment-->
+    <string name="task_running">Task still running</string>
+    <string name="refresh_failed">Refresh failed</string>
+    <string name="data_success_loaded">Tiedot päivitetty palvelimelta</string>
+    <string name="load_of">Load %1$d of %2$d</string>
+    <string name="no_item">No Item</string>
+
+    <!--activity Recipe Details-->
+    <string name="remove_favorites">Poista nähdyistä</string>
+    <string name="add_favorites">Lisätty bongattuihin</string>
+    <string name="share_action">Jaa</string>
+    <string name="duration_unit"></string>
+    <string name="instructions">Tietoja</string>
+
+    <!--activity Search-->
+    <string name="hint_input_recipe">Etsi lajia</string>
+    <string name="hint_input_category">Etsilahkoittain</string>
+    <string name="please_fill_input">Hskusanat</string>
+
+    <!--activity Setting-->
+    <string name="default_notification_channel_id">Default</string>
+    <string name="activity_title_settings">Asetukset</string>
+    <string name="title_dialog_theme">Teema</string>
+    <string name="dialog_confirm_title">Hyväksy</string>
+    <string name="message_clear_image_cache">tyhjennä väliaikaistiedostot?</string>
+    <string name="message_after_clear_image_cache">Image cache successfully clear</string>
+    <string name="grant_permission_account">Hyvöksy käyttöluvat</string>
+    <string name="term_condition">Term &amp; Policies</string>
+    <string name="about">Tietoja</string>
+    <string name="rate_this_app">Arvostele</string>
+    <string name="build_version">Build Version</string>
+    <string name="version">Versio</string>
+    <string name="content_term">
+    Lintuopas
+    </string>
+
+
+    <!-- ==================== Settings for Setting ============================================= -->
+    <string name="pref_category_notif">Ilmoitukset</string>
+    <string name="pref_category_display">Näyttö</string>
+    <string name="pref_category_other">Muut</string>
+
+    <string name="pref_title_notif">Ilmoitukset</string>
+    <string name="pref_title_ringtone">Soittoääni</string>
+    <string name="pref_title_vibrate">Värinä</string>
+    <string name="pref_title_theme">Teema</string>
+    <string name="pref_title_cache">Tyhjennä cache</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_copyright">Copyright</string>
+    <string name="pref_title_dev_name">Kehittäjä</string>
+    <string name="pref_title_term">Term &amp; Policies</string>
+
+    <string name="pref_key_notif">key_notifications</string>
+    <string name="pref_key_ringtone">key_ringtone</string>
+    <string name="pref_key_vibrate">key_vibrate</string>
+    <string name="pref_key_reset_cache">key_reset_cache</string>
+    <string name="pref_key_theme">key_theme</string>
+
+
+    <!-- Utilities Text -->
+    <string name="no_internet">No internet connection</string>
+
+    <!--Basic action Text-->
+    <string name="OK">OK</string>
+    <string name="SETTING">SETTING</string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="SAVE">Tallenna</string>
+    <string name="DISMISS">DISMISS</string>
+    <string name="HIDE">HIDE</string>
+    <string name="RETRY">RETRY</string>
+    <string name="DETAILS">DETAILS</string>
+    <string name="FAILED">FAILED</string>
+
+</resources>

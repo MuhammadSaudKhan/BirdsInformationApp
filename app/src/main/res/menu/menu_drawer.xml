@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/main"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_recipes"
+            android:icon="@drawable/ic_nav_recipes"
+            android:title="@string/title_nav_recipes"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_nav_category"
+            android:title="@string/title_nav_category"/>
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/ic_nav_favorites"
+            android:title="@string/title_nav_favorites"
+            app:actionLayout="@layout/menu_counter_colored"/>
+    </group>
+    <group android:id="@+id/others">
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_nav_setting"
+            android:title="@string/title_nav_setting" />
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_nav_rate"
+            android:title="@string/title_nav_rate" />
+        <item
+            android:id="@+id/nav_more"
+            android:icon="@drawable/ic_nav_more_app"
+            android:title="@string/title_nav_more" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_nav_about"
+            android:title="@string/title_nav_about" />
+    </group>
+</menu>

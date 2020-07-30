@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912402233132",
+    "firebase_url": "https://lintuopas-4900a.firebaseio.com",
+    "project_id": "lintuopas-4900a",
+    "storage_bucket": "lintuopas-4900a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912402233132:android:2f41905b2ead1bc189de89",
+        "android_client_info": {
+          "package_name": "com.polardev.lintuopas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912402233132-iuhuq32g0ot3l95hihj6vfm5omu5j7af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF5ulRpIiPvOZ1Xg-KP7Kfcbgh2aOJk5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912402233132-iuhuq32g0ot3l95hihj6vfm5omu5j7af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
